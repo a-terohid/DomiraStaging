@@ -31,8 +31,8 @@ export default function RootLayout({
           onLoad={() => {
               window.rfWidgets = window.rfWidgets || {};
 window.rfWidgets.config = {
-  apiKey: "LyPmDMV4Wg5IZB57ZaouB1WuzqRimQvf7JmBfSsq",
-  clientID: "13ffafb9mvkfql18r59ium2acv",
+  apiKey: "vPDTu21jFn7JvbrjlVThL5JJXbQbDbzia67dZYlJ",
+  clientID: "pvn0hmr28cb33ib1et0oh29q7",
   walkScoreKey: "d4c883abf92f15a92f431dd1abe809ce",
   locationKey: 'AIzaSyC9hWjz0T6bpbEKZsOvh1pVu6BlGb95kfo',
   mapKey: 'AIzaSyC9hWjz0T6bpbEKZsOvh1pVu6BlGb95kfo',
