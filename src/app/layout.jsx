@@ -26,7 +26,7 @@ export default function RootLayout({
 
         {/* Load RealtyFeed Script */}
         <Script
-          src="https://static.realtyfeed.com/harryTest/index.js"
+          src="https://static.realtyfeed.com/demo/index.js"
           strategy="afterInteractive"
           onLoad={() => {
               window.rfWidgets = window.rfWidgets || {};
