@@ -128,7 +128,7 @@ window.rfWidgets.config = {
   },
   "listings-widget-1": {
     widgetType: "Listings",
-		layout : "Domira",
+		layout : "Estain",
 		DisplayDisplaySearchSectionBanner : true,
 		SearchSectionBannerContent : {
 			top : "-9px",
