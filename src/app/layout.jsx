@@ -188,7 +188,7 @@ mapZoom: 8,
   },
   "property-details-1": {
     widgetType: "PropertyDetails",
-    layout : "Domira",
+   layout : "Estain",
 		actions:{
             saveProperty: true,
             shareProperty: true,
