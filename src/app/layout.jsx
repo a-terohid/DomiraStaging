@@ -244,9 +244,9 @@ mapZoom: 8,
   },
   "compare-1": {
     widgetType: "Compare",
-    layout : "Domira",
+    layout : "Estain",
 		DisplayDisplayBanner : true,
-        disableMap : false,
+      disableMap : false,
 		BannerContent : {
 			top : "-9px",
 			showGradient : true,
