@@ -44,7 +44,7 @@ window.rfWidgets.config = {
         },
   "featured-listings-1": {
     widgetType: "FeaturedListings",
-    layout : "Domira",
+    layout : "Estain",
     filters: {
       sortBy: { label: "Latest", value: "OriginalEntryTimestamp desc" },
       city: "",
@@ -83,7 +83,7 @@ window.rfWidgets.config = {
   },
   "featured-listings-2": {
     widgetType: "FeaturedListings",
-    layout : "Domira",
+   layout : "Estain",
     filters: {
       sortBy: { label: "Latest", value: "OriginalEntryTimestamp desc" },
       city: "",
