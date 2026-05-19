@@ -267,7 +267,7 @@ mapZoom: 8,
       baths: true,
       sqft: true,
     },
-     layout : "Domira",
+        layout : "Estain",
 		DisplayDisplayBanner : true,
         disableMap : false,
 		BannerContent : {
